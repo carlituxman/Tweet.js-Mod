@@ -33,6 +33,7 @@ $(document).ready(function() {
         modpath: '/assets/twitter/',
         count: 5,
         loading_text: 'loading twitter feed...',
+        shopics: true, //to show pics from tweets like <img class='pic' src='...' />
         /* etc... */
     });
 </script>
